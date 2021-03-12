@@ -8,10 +8,9 @@ Fairly simple!
 
 <img src="BeCode/gif-watch/../../Demo_gif.gif" width="350" height="350"/>
 
+Size them up!
 
-`` <img src="localpathway.gif" width="640" height="480"/>``
-
-<img src="https://drive.google.com/file/d/1NPqxj-pO_Zby0BHE60ieFr-WyuBas7qX/preview" width="640" height="480"/>
+<img src="BeCode/gif-watch/../../Demo_gif.gif" width="640" height="480"/>
 
 
 ##Program
