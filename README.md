@@ -13,7 +13,7 @@ Size them up!
 <img src="BeCode/gif-watch/../../Demo_gif.gif" width="640" height="480"/>
 
 
-##Program
+## Program
 I used ScreenToGif to make the gifs. 
 Useful tool! 
 I heard GiFox is good for Mac.
