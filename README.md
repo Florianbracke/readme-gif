@@ -1,6 +1,6 @@
 ﻿# readme-gif
  
-## I gave a watch (info-session) on how to add README's to your gif repository.
+## I gave a watch (info-session) on how to add gif to your README.
 Fairly simple!
 
 `` <img src="localpathway.gif" width="350" height="350"/>``
